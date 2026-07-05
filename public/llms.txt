@@ -1,0 +1,22 @@
+# CLT Calculator
+
+> Calculadora completa de cálculos trabalhistas da CLT (Consolidação das Leis do Trabalho) brasileira: salário líquido, INSS, IRPF, FGTS, férias, 13º salário e cenários de rescisão, em um dashboard interativo.
+
+CLT Calculator ajuda trabalhadores e profissionais de RH brasileiros a simular e entender descontos e direitos trabalhistas sem depender de planilhas manuais.
+
+## Recursos
+
+- Cálculo de salário líquido com INSS e IRPF
+- Simulação de FGTS
+- Cálculo de férias e 13º salário
+- Cenários de rescisão de contrato (aviso prévio, multa, verbas rescisórias)
+- Dashboard interativo com resultados detalhados
+
+## Stack
+
+React, TypeScript, Vite, Tailwind CSS. 100% client-side, sem envio de dados a servidores.
+
+## Links
+
+- Repositório: https://github.com/obrenoalvim/cltCalc
+- App: https://clt-calc.vercel.app

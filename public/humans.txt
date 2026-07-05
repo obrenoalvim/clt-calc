@@ -1,0 +1,9 @@
+/* TEAM */
+Developer: Breno Alvim
+Site: https://github.com/obrenoalvim
+
+/* SITE */
+Last update: 2026-07-04
+Language: Portuguese (Brazil)
+Doctype: HTML5
+Components: React, TypeScript, Vite, Tailwind CSS
