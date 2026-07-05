@@ -18,5 +18,5 @@ React, TypeScript, Vite, Tailwind CSS. 100% client-side, sem envio de dados a se
 
 ## Links
 
-- Repositório: https://github.com/obrenoalvim/cltCalc
+- Repositório: https://github.com/obrenoalvim/clt-calc
 - App: https://clt-calc.vercel.app
